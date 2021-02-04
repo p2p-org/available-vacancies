@@ -31,5 +31,38 @@
         "We invest in your professional development"  
       ]
     }
+  },
+  "product-manager-2": {
+    "summary": {
+      "position": "Product Manager (Cosmos)",
+      "contract": "Full-time",
+      "location": "Remote (Moscow +3GMT)",
+      "beginning": "Immediately"
+    },
+    "info": {
+      "description": "We are looking for an experienced Product Manager who is passionate about building products that customers love. You will join a dynamic and fast-paced environment and work with cross-functional teams to design, build and roll-out DEFI products that deliver the company’s vision and strategy.",
+      "responsibilities": [
+        "Own product development from conception to launch",
+        "Collaborate cross-functionally with engineering, design and cross-functional teams to develop and steer product roadmap",
+        "Define and analyse metrics to guide product development",
+        "Align teams on a shared vision and steer execution on that vision."
+      ],
+      "requirements": [
+        "5+ years of product management experience",
+        "Exceptional interpersonal communication, relationship management and organisational skills",
+        "Great analytical, prioritisation and problem solving skills",
+        "Previous experience working in software product management",
+        "Demonstrated passion for cryptocurrency, financial markets",
+        "An entrepreneurial mindset with the ability to succeed in a fast-paced environment"
+      ],
+      "benefits": [
+        "One of the top and well-respected companies in the industry",
+        "Ability to work on the next big frontier that transforms finance and technology",
+        "Flexibility and ability to work remotely (wherever you are or wish to be)",
+        "A fast pace culture and the environment in a fast-growing company",
+        "An environment that encourages you to fulfil potential unleash best qualities and rapid personal growth",
+        "We invest in your professional development"  
+      ]
+    }
   }
 }
