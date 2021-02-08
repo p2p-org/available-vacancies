@@ -65,4 +65,37 @@
       ]
     }
   }
-}
+},
+{
+  "sales-manager": {
+    "summary": {
+      "position": "Sales Manager",
+      "contract": "Full-time",
+      "location": "Remote (Moscow +3GMT)",
+      "beginning": "Immediately"
+    },
+    "info": {
+      "description": "As an IT sales professional, you'll usually work with “big fish” investors, foundations of the blockchains, exchanges, institutional investor etc. offering the innovative products and services being developing by P2P to suit their business needs": [
+        "Assess current team processes and procedures, identify opportunities for improvement, and implement them",
+        "Gain an understanding of customers' diverse and specific business needs and apply P2P product to meet them",
+        "Prepare and deliver presentations and demonstrations of P2P capabilities ",
+        "meet sales targets set by product managers and contribute to team targets",
+        "develop effective sales plans using sales methodology (free to choose on his own)",
+        "identify and develop new business ideas (product ideas) through networking.",
+        "promote a portfolio of P2P products by writing and designing sales articles in collaboration with marketing team."
+      ],
+      "requirements": [
+        "5+ years of experience in IT sales",
+        "bachelor's degree in Business, Marketing, Communications, or related field",
+        "self-motivation and a competitive, results-driven attitude"
+      ],
+      "benefits": [
+        "One of the top and well-respected companies in the industry",
+        "Ability to work on the next big frontier that transforms finance and technology",
+        "Flexibility and ability to work remotely (wherever you are or wish to be)",
+        "A fast pace culture and the environment in a fast-growing company",
+        "An environment that encourages you to fulfil potential unleash best qualities and rapid personal growth",
+        "We invest in your professional development"  
+      ]
+    }
+  },
