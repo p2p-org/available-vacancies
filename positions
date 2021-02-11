@@ -31,5 +31,45 @@
         "We invest in your professional development"  
       ]
     }
+  },
+  "devops": {
+    "summary": {
+      "position": "DevOps",
+      "contract": "Full-time",
+      "location": "Remote (Moscow +3GMT)",
+      "beginning": "Immediately"
+    },
+    "info": {
+      "description": "We are looking for a capable System Security Engineer, who enjoys security work and possesses both deep and wide expertise in the security space. You will make things more secure by protecting system boundaries, keeping computer systems and network devices hardened against attacks and securing highly sensitive data. Qualified candidates will have a background in Security or Systems Engineering.",
+      "responsibilities": [
+        "Establish and own projects to improve the overall security of the P2P.ORG platform",
+        "Research complex security topics around blockchain, asymmetric cryptography, smart contracts, key management, block signing/verification and authentication",
+        "Be a champion of security and seek to advance the state of security practices within the engineering organization",
+        "Respond to security events and lead security investigations and mitigation",
+        "Identify risks in code, applications, software architecture, internal development processes and infrastructure",
+        "Secure services and infrastructure that help to automate the deployment of blockchain network infrastructure",
+        "Develop tools and automation that integrate security into systems and process, enabling our team to function more securely by nature",
+        "Interact and collaborate with other engineers and team members; we have a highly focused and collaborative team. Our team prioritizes creating a shared understanding of our systems/supported networks, and we are dedicated to supporting each other on a daily basis"
+      ],
+      "requirements": [
+        "5+ years of production security experience under your belt",
+        "Proficiency in a modern programming language such as Go, Python, or Rust",
+        "Experience in all layers of the modern security stack, including cloud infrastructure, HSMs, secure network topology, and container/machine level attack vectors",
+        "Familiarity with Go and the Kubernetes ecosystem, but are not necessarily an expert",
+        "Note: While a degree in CS is nice, you don't need one--or any other kind of degree--to work here. Some of the best people come from non-traditional backgrounds and disciplines",
+        "The following might be nice, but if you don’t have them, don’t worry: we’re dedicated to supporting our employees’ education and growth",
+        "You have worked with the security of blockchain networks in a professional capacity",
+        "Experience with physical security systems for digital assets",
+        "Experience with multicloud deployments"
+      ],
+      "benefits": [
+        "One of the top and well-respected companies in the industry",
+        "Ability to work on the next big frontier that transforms finance and technology",
+        "Flexibility and ability to work remotely (wherever you are or wish to be)",
+        "A fast pace culture and the environment in a fast-growing company",
+        "An environment that encourages you to fulfil potential unleash best qualities and rapid personal growth",
+        "We invest in your professional development"  
+      ]
+    }
   }
 }
