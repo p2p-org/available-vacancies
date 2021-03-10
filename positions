@@ -71,5 +71,76 @@
         "We invest in your professional development"  
       ]
     }
+  },
+  "CPO": {
+    "summary": {
+      "position": "Chief Product Officer",
+      "contract": "Full-time",
+      "location": "Remote",
+      "beginning": "Immediately"
+    },
+    "info": {
+      "description": "The Chief Product Officer is a strategic leader, visionary, team supervisor, and advocate of an organization’s product (or products). The primary goal of the CPO is to lead and facilitate the creation of products that deliver value to both customers and the business. 
+",
+      "responsibilities": [
+        "Lead a Product Management team focused on conceiving, building, and launching user-focused, high-quality products that connect and grow the crypto economy",
+        "Work closely with fellow engineering, design, and business leadership to define our product vision and strategy across your product areas, and deliver tangible business outcomes",
+        "Hire, manage, and grow a team of Product Managers and help them to reach their potential",
+        "Execute efficiently in a fast-paced, fluid start-up environment where change is constant and creativity is a must",
+        "Write technical PRDs, manage technical backlogs, and effectively prioritize new features vs. tech debt.  Work with a full-stack engineering team to build world-class internal products that eliminate workflow friction, maximize output, and improve the employee experience"
+      ],
+      "requirements": [
+        "8+ years of Product Management experience",
+        "A track record of building exceptional products that delight your users and produce a clear business impact",
+        "Demonstrated ability to lead projects affecting many functions, including product, engineering, finance, compliance, and support. Ability to direct major cross-functional initiatives with effective prioritization and influence",
+        "Experience collecting both internal and external customer feedback and requests, empathizing with their challenges and opportunities, and prioritizing roadmaps to optimize results",
+        "Passion for cryptocurrency, financial markets, and the Coinbase mission"
+      ],
+      "benefits": [
+        "One of the top and well-respected companies in the industry",
+        "Ability to work on the next big frontier that will transform finance and technology",
+        "Flexibility and ability to work remotely (wherever you are or wish to be)",
+        "A fast pace culture and the environment in a fast-growing company, 20x in assets in one year",
+        "An environment that encourages you to fulfil potential and unleash the best qualities for  rapid personal growth",
+        "We invest in your professional development"  
+      ]
+    }
+  },
+  "HR": {
+    "summary": {
+      "position": "Head of HR",
+      "contract": "Full-time",
+      "location": "Remote",
+      "beginning": "Immediately"
+    },
+    "info": {
+      "description": "We are looking for a Head of HR to oversee all personnel-related matters and ensure we use our resources beneficially. You will ensure our HR department operates efficiently and aligns with our business objectives. 
+",
+      "responsibilities": [
+        "Lead and inspire a distributed and global team of hardworking Directors, Managers, Recruiters, and Sourcers.",
+        "Partner directly with P2P’s CTO, Chief Product Officer, and their leadership teams to build and scale their global teams, balancing team bandwidth and business priorities.",
+        "Work with Talent and Technical leadership to evaluate and continuously improve the team structure, systems, and hiring processes.",
+        "Utilize analytics and industry intelligence and help your team make data-guided decisions and provide insights to the business on a regular cadence.",
+        "Develop both the senior and junior members of your team through ongoing mentor and career development planning."
+      ],
+      "requirements": [
+        "8+ years of Product Management experience",
+        "Global technical recruiting expertise: You have a deep understanding of what creates an effective and positive hiring experience for technical talent (software engineers, product managers, designers, etc.), and can apply it in practice across various functions and countries.",
+        "Leadership & organizational change: You are able to proactively zoom out, set, and execute a long term strategy for your team and cross-functional partners, even amidst chaotic day-to-day priorities.",
+        "Communication: You are able to easily engage and inspire both technical and non-technical candidates, hiring managers, recruiters, interviewers, and leaders.",
+        "Player-coach management: You don’t shy away from doing the building yourself when needed. You inspire and coach everyone from junior team members to senior executives.",
+        "Data orientation: You are a specialist in key recruiting metrics. You use data not just to set and track team goals, but also to identify hiring issues proactively and build consensus around solutions.",
+        "7+ years of experience leading tech-focused recruiting teams.",
+        "3+ years of experience leading other managers – a solid, proven and inspiring leader of leaders is a must!"
+      ],
+      "benefits": [
+        "One of the top and well-respected companies in the industry",
+        "Ability to work on the next big frontier that will transform finance and technology",
+        "Flexibility and ability to work remotely (wherever you are or wish to be)",
+        "A fast pace culture and the environment in a fast-growing company, 20x in assets in one year",
+        "An environment that encourages you to fulfil potential and unleash the best qualities for  rapid personal growth",
+        "We invest in your professional development"  
+      ]
+    }
   }
 }
