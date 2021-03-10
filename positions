@@ -72,7 +72,7 @@
       ]
     }
   },
-  "CPO": {
+  "cpo": {
     "summary": {
       "position": "Chief Product Officer",
       "contract": "Full-time",
@@ -80,8 +80,7 @@
       "beginning": "Immediately"
     },
     "info": {
-      "description": "The Chief Product Officer is a strategic leader, visionary, team supervisor, and advocate of an organization’s product (or products). The primary goal of the CPO is to lead and facilitate the creation of products that deliver value to both customers and the business. 
-",
+      "description": "The Chief Product Officer is a strategic leader, visionary, team supervisor, and advocate of an organization’s product (or products). The primary goal of the CPO is to lead and facilitate the creation of products that deliver value to both customers and the business.",
       "responsibilities": [
         "Lead a Product Management team focused on conceiving, building, and launching user-focused, high-quality products that connect and grow the crypto economy",
         "Work closely with fellow engineering, design, and business leadership to define our product vision and strategy across your product areas, and deliver tangible business outcomes",
@@ -106,7 +105,7 @@
       ]
     }
   },
-  "HR": {
+  "hr": {
     "summary": {
       "position": "Head of HR",
       "contract": "Full-time",
@@ -114,8 +113,7 @@
       "beginning": "Immediately"
     },
     "info": {
-      "description": "We are looking for a Head of HR to oversee all personnel-related matters and ensure we use our resources beneficially. You will ensure our HR department operates efficiently and aligns with our business objectives. 
-",
+      "description": "We are looking for a Head of HR to oversee all personnel-related matters and ensure we use our resources beneficially. You will ensure our HR department operates efficiently and aligns with our business objectives.",
       "responsibilities": [
         "Lead and inspire a distributed and global team of hardworking Directors, Managers, Recruiters, and Sourcers.",
         "Partner directly with P2P’s CTO, Chief Product Officer, and their leadership teams to build and scale their global teams, balancing team bandwidth and business priorities.",
