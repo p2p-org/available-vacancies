@@ -67,9 +67,9 @@
       ]
     }
   },
-  "product-manager": {
+  "senior-product-manager": {
     "summary": {
-      "position": "Product Manager",
+      "position": "Senior Product Manager",
       "contract": "Full-time",
       "location": "Remote",
       "beginning": "Immediately"
@@ -100,9 +100,9 @@
       ]
     }
   },
-  "devops": {
+  "devsecops": {
     "summary": {
-      "position": "DevOps",
+      "position": "DevSecOps",
       "contract": "Full-time",
       "location": "Remote",
       "beginning": "Immediately"
