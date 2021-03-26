@@ -139,5 +139,41 @@
         "We invest in your professional development"  
       ]
     }
-  }
+  },
+  "senior-devops": {
+    "summary": {
+      "position": "Senior DevOps",
+      "contract": "Full-time",
+      "location": "Remote",
+      "beginning": "Immediately"
+    },
+    "info": {
+      "description": "We are looking for a senior-level DevOps Engineer,preferably familiar with cryptography or information security.",
+      "responsibilities": [
+       "Build tools/scripts/playbooks/etc. that help to accelerate our processes",
+       "Automate quickly and  accurately the deployment of blockchain network infrastructure",
+       "Write cloud-agnostic infrastructure as code",
+       "Maintain security and compliance standards",
+       "Implement observability best practices and principles, monitoring and logging technologies"
+      ],
+      "requirements": [
+        "In-depth knowledge of Linux",
+        "Any modern programming language supporting functional paradigm, such as Go, Rust, or Python (Go and Rust are preferable), pet projects are also relevant",
+        "Great written and oral communication skills to communicate with our remote-first teams, worldwide users, and open-source communities",
+      "Experience in:containerizing applications with Docker and familiarity with container orchestration, infrastructure as code with Terraform, configuration management with Ansible",
+      "Ability to get the information directly from open-source blockchain code and dig deep into the code if there is no specific documentation",
+      "Commits/pull requests to major  open-source projects are  a huge plus",
+      "As an advantage - educational background or basic experience with cryptography or information security"
+      ],
+      "benefits": [
+        "One of the top and well-respected companies in the industry",
+        "Opportunity to contribute to and even affect and shape a high-end technology product with a great impact to everyday people's lives worldwide",
+        "A fast pace culture and the environment in a fast-growing company that encourages you to fulfil potential, unleash best qualities and rapid personal growth",
+        "Challenging and thrilling tasks involving a bit of research",
+        "Great teammates to be inspired by and to learn from, always ready to help out",
+        "International team distributed all over the world, home-based or office regime are both considerable. You can literally work from any location to your taste",
+        "Competitive salary"
+      ]
+    }
+  } 
 }
